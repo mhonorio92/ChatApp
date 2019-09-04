@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>547000328052-00sterdduvtd6u2o8jkdt9srj4d93u7m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.547000328052-00sterdduvtd6u2o8jkdt9srj4d93u7m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA1BKEcpCVaiZm5Lmhq4RPgldsC230_DlQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>547000328052</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mhonorio.Flash-Chat</string>
+	<key>PROJECT_ID</key>
+	<string>mhonorio-1c7ea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mhonorio-1c7ea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:547000328052:ios:4b7e26a22ec15050</string>
+	<key>DATABASE_URL</key>
+	<string>https://mhonorio-1c7ea.firebaseio.com</string>
+</dict>
+</plist>
